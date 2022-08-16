@@ -16,6 +16,7 @@ public class MainActivity extends AppCompatActivity {
         int age = 19;
         double weight = 55.5;
         //boolean math = True;
+        True
 
         Log.d("MainActivity",hello+"!!!");
         Log.d("MainActivity",age+"歳だお");
